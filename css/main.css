@@ -1,0 +1,23 @@
+html {
+    background-color: #252627;
+}
+
+body {
+    font-family: Open Sans, Arial;
+    color: #D3D4D4;
+    font-size: 14px;
+    margin: 2em auto;
+    max-width: 800px;
+    padding: 1em;
+    line-height: 1.4;
+    text-align: justify
+}
+
+.masthead {
+    text-align: center;
+    font-size: 400%;
+}
+
+.nav {
+    text-align: center;
+}

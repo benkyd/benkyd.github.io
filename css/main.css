@@ -20,7 +20,7 @@ small {
 }
 
 a {
-    color: #4B88A2;
+    color: #03a5fc;
 }
 
 a:link, a:visited {
@@ -47,7 +47,7 @@ a:hover {
 }
 
 .container {
-    width: 100vw;
+    width: 100%;
     height: fit-content;
     padding-top: 20px;
     padding-bottom: 20px;
